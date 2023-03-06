@@ -1,0 +1,9 @@
+{
+	"name": "rebelshiva",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a043733-eb62-4b8e-ac93-2a11f209e5b4",
+		"tenantId": "2fdd511e-2db6-4d6b-9b48-4d1c1af1fcbc"
+	}
+}
