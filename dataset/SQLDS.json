@@ -1,0 +1,16 @@
+{
+	"name": "SQLDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SQLLS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "new"
+		}
+	}
+}
